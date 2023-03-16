@@ -8,8 +8,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   - [Screenshot](#screenshot)
 
-  src\assets\design\qr-code-desktop.png
-  src\assets\design\qr-code-mobile.png
+  <p align="center">
+    <img alt="qr-code-image" src="src/assets/design/qr-code-desktop.png" width="100%">
+  </p>
 
   - [Links](#links)
 
